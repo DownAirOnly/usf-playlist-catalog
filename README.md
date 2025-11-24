@@ -1,4 +1,4 @@
-# Universal Playlists Catalog
+# Universal Playlist Catalog
 
 A simple web project to catalog the background music playlists at Universal Studios Florida.
 
