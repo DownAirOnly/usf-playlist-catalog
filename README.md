@@ -1,6 +1,8 @@
-# Universal Playlist Catalog
+# Universal Studios Florida Playlist Catalog
 
-A simple web project to catalog the background music playlists at Universal Studios Florida.
+A simple web project to catalog the background music playlists at Universal Studios Florida. 
+
+Throughout the Studios side, there are a lot more playlists than you might think. Just within San Francisco, there's the street playlist, Lombardi's, Fast and Furious exit, and even another street playlist on the other side of London. While some playlists like the one at Hollywood Rip Ride Rockit are cataloged due to the focus on the music, others may be lost to time.
 
 ## MVP Goal
 
