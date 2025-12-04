@@ -4,11 +4,10 @@ A small web project to catalog the background music playlists at **Universal Stu
 
 Throughout the park there are more playlists than most guests (and even some Team Members) realize: area street loops, café music, attraction exits, seasonal overlays, and more. This site is an attempt to document those playlists in one place and make them easy to browse.
 
-> ##Disclaimer
-
-This is an unofficial fan project created by a Universal Team Member in their personal time.
-It is not endorsed by, affiliated with, or representative of Universal Parks & Resorts.
-All trademarks and music belong to their respective owners.
+> Disclaimer
+> This is an unofficial fan project created by a Universal Team Member in their personal time.
+> It is not endorsed by, affiliated with, or representative of Universal Parks & Resorts.
+> All trademarks and music belong to their respective owners.
 
 ---
 
